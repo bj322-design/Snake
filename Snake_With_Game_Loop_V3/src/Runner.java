@@ -62,7 +62,7 @@ public class Runner {
 			
 		
 			b.display();
-			Thread.sleep(500); // will stop the program for x time in miliseconds (good one is 500)
+			Thread.sleep(250); // will stop the program for x time in miliseconds (good one is 500)
 		}
 		
 		//System.out.println("Your Score was: " + a.getScore()); //it would be redundent if it said it again
